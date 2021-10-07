@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![CookieMC337's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieMC337&count_private=true&show_icons=true)](https://github.com/CookieMC337/github-readme-stats)
+[![CookieMC337's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieMC337&count_private=true&show_icons=true)]
