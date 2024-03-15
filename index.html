@@ -2,10 +2,7 @@
 <html>
 <head>
 <title>IDK</title>
-</head>
-<body>
-
-<style>
+    <style>
 @keyframes rainbow {
     0% { background-position: 0 0; }
     100% { background-position: 100% 0; }
@@ -15,8 +12,7 @@
     0% { transform: translate(-50%, -50%) rotate(360deg) translateX(200px) rotate(0deg); }
     100% { transform: translate(-50%, -50%) rotate(0deg) translateX(200px) rotate(-360deg); }
 }
-</style>
-<style>
+
 body {
     position: relative;
     overflow: hidden;
@@ -24,9 +20,6 @@ body {
     background-size: 1500% auto;
     animation: rainbow 10s linear infinite;
 }
-
-</style>
-<style>
 
 .random-image {
     position: absolute;
@@ -37,8 +30,6 @@ body {
     background-repeat: no-repeat;
     animation: circle 10s linear infinite;
 }
-</style>
-<style>
 
 .random-image:nth-child(1) { top: 90%; left: 50%; animation-delay: 0s; }
 .random-image:nth-child(2) { top: 80%; left: 50%; animation-delay: 1s; }
@@ -47,6 +38,10 @@ body {
 .random-image:nth-child(5) { top: 50%; left: 50%; animation-delay: 4s; }
 
 </style>
+
+</head>
+<body>
+
 
     <div class="random-image">
         <div class="random-image">
